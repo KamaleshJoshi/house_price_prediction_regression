@@ -1,1 +1,2 @@
-# house_price_prediction_regression
+python3 -m venv regression
+source regression/bin/activate
